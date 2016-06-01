@@ -14,7 +14,16 @@ body {
     color: #333;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
 .picture img {
     display: block;
     margin: 0 auto;
+    max-width: 100%;
+}
+
+#banner {
+    font-size: 2.5em;
 }
